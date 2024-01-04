@@ -1,6 +1,9 @@
 name: Build Website
 
 on:
+  push:
+    tags:
+      - '*'
   workflow_dispatch:
 
 permissions:
