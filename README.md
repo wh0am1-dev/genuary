@@ -4,7 +4,7 @@
 genuary(2024).then(prompts => prompts.forEach(prompt => make(prompt)))
 ```
 
-genuary is an artificially generated month of time where people build code that makes beautiful things
+[genuary](https://genuary.art) is an artificially generated month of time where people build code that makes beautiful things
 
 it’s happening during the month of january, and everybody is invited !
 
