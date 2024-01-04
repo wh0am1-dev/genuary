@@ -8,4 +8,4 @@ genuary is an artificially generated month of time where people build code that 
 
 it’s happening during the month of january, and everybody is invited !
 
-over the 744 hours of january, for every 24 hours there will be one prompt for our code art
+over the 744 hours of january, for every 24 hours there will be one [prompt](https://genuary.art/prompts) for our code art
